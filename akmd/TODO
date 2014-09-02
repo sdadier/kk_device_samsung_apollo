@@ -1,0 +1,6 @@
+Quick document of things to try/do
+
+- Add rotation matrices for both accelerometer and magnetometer sensors.
+  These matrices can be used to rotate the coordinate system of the sensor
+  to Device Coordinate System, and to calibrate down direction/magnitude
+  exactly.
